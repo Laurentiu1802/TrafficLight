@@ -11,4 +11,6 @@ If I push the"south" car sensor(the one in the lower part of the protoboard) we 
 If I push the "walk" sensor(the middle switch) we will see that the light on the launchpad comes green.
 If we push all of them simultaneously , the green light will come on in turn.
 
+Take a look on Traffic Light.docx and HowItWorks video. Thanks
+
 I've completed this project with the help from "Embedded Systems - Shape The World: Microcontroller Input/Output" course (www.edx.org)
